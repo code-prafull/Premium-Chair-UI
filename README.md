@@ -23,9 +23,6 @@ Built with clean design principles and a smooth user experience to attract moder
 
 - HTML5
 - CSS3
-- JavaScript
-- (Optional) React.js
-- (Optional) Tailwind CSS
 
 ## 🔗 Live Demo
 
