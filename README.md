@@ -26,3 +26,8 @@ Built with clean design principles and a smooth user experience to attract moder
 - JavaScript
 - (Optional) React.js
 - (Optional) Tailwind CSS
+
+## 🔗 Live Demo
+
+Check out the live demo here: [Live Demo](https://premium-chair-ui-git-main-prafull-singhs-projects.vercel.app)
+
